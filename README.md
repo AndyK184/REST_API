@@ -25,7 +25,7 @@ localhost:3000/tickets
 
 ## Documentation
 
-The ticket Schema contains 3 fields:
+The ticket schema contains 3 fields:
 
 ```bash
 artists: String (required)
@@ -51,7 +51,7 @@ GET localhost:3000/tickets/:id
 
 POST localhost:3000/tickets
 
-```bashh
+```bash
 Body: {
   "artist": "Name"
   "location: LocationName"
