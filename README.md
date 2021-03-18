@@ -32,7 +32,7 @@ artists: String (required)
 
 location: String (required)
 
-eventDate: Date (default: Date.now())
+purchaseDate: Date (set to Date.now())
 ```
 
 ## GET all tickets
